@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+}
+
+
+.form {
+  border: 2px dashed black;
+}
+
+input {
+  border: 2px dashed blueviolet;
+}
+
